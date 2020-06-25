@@ -1,10 +1,16 @@
 h1 {
     color: blue;
+    background-color: red;
 }
 
 h2 {
     text-align: center;
-    color: red;
+    color: blue;
+}
+
+h4 {
+    text-align: right;
+    color: blue;
 }
 
 h3 {
@@ -13,4 +19,8 @@ h3 {
 
 p {
     color: red;
+}
+
+#staff {
+    background-color: green;
 }
