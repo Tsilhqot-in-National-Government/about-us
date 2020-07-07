@@ -10,3 +10,20 @@
     border-color: #f12029;
     background-color: #f1f1f1;
 }
+
+
+
+body {
+
+    background: url(assets/river.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -o-background-size: cover;
+
+    background-size: cover;
+
+}
+
