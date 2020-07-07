@@ -1,5 +1,6 @@
  .col-lg {
  text-align: center;
+ color: white;
 }
 
 .jumbotron {
@@ -10,8 +11,6 @@
     border-color: #f12029;
     background-color: #f1f1f1;
 }
-
-
 
 body {
 
@@ -27,3 +26,25 @@ body {
 
 }
 
+button {
+    background-color: red;
+    color: #f1f1f1;
+    border: 5px solid white;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin; 
+}
+
+#demo, #demo2, #demo3 {
+    background-color: red;
+    color: white;
+}
+
+.card-body {
+    color: red;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+}
