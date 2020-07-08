@@ -1,6 +1,6 @@
  .col-lg {
- text-align: center;
- color: white;
+    text-align: center;
+    color: white;
 }
 
 .jumbotron {
@@ -10,6 +10,7 @@
     border-radius: 25px;
     border-color: #f12029;
     background-color: #f1f1f1;
+    box-shadow:20px 20px 50px black;
 }
 
 body {
@@ -30,9 +31,13 @@ button {
     background-color: red;
     color: #f1f1f1;
     border: 5px solid white;
+    width: 150px;
+    padding: 25px;
+    margin: 10px;
     outline-style: solid;
     outline-color: red;
-    outline-width: thin; 
+    outline-width: thick; 
+    box-shadow:20px 20px 50px black;
 }
 
 #demo, #demo2, #demo3 {
