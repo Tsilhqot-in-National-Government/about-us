@@ -1,4 +1,4 @@
- .col-lg {
+ .col-lg-3, .col-lg-6 {
     text-align: center;
     color: white;
 }
@@ -43,6 +43,7 @@ button {
 #demo, #demo2, #demo3 {
     background-color: red;
     color: white;
+    text-align: left;
 }
 
 .card-body {
@@ -53,4 +54,9 @@ button {
     margin: 0 auto;
     float: none;
     width: 100%;
+}
+
+.footer {
+    text-align: center;
+    
 }
