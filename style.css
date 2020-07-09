@@ -1,4 +1,4 @@
- .col-lg-3, .col-lg-6 {
+.col-lg-3, .col-lg-6 {
     text-align: center;
     color: white;
 }
@@ -30,13 +30,12 @@ body {
 button {
     background-color: red;
     color: #f1f1f1;
-    border: 5px solid white;
-    width: 150px;
+    border: 10px double white;
+    border-radius: 25px;
+    width: 200px;
+    font-size: x-large;
     padding: 25px;
     margin: 10px;
-    outline-style: solid;
-    outline-color: red;
-    outline-width: thick; 
     box-shadow:20px 20px 50px black;
 }
 
@@ -44,10 +43,11 @@ button {
     background-color: red;
     color: white;
     text-align: left;
+    min-height: 2000px;
 }
 
 .card-body {
-    color: red;
+    color: black;
 }
 
 .card {
@@ -58,5 +58,5 @@ button {
 
 .footer {
     text-align: center;
-    
+    padding: 50px;
 }
