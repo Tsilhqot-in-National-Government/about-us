@@ -48,8 +48,8 @@ button {
 .card {
     margin: 0 auto;
     float: none;
-    width: 100%;
-    
+    /*width: 100%; */
+    width: 15rem;
 }
 
 .footer {
