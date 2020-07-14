@@ -27,14 +27,14 @@ button {
     color: #f1f1f1;
     border: 10px double white;
     border-radius: 25px;
-    width: 200px;
+    width: 175px;
     font-size: x-large;
     padding: 25px;
     margin: 10px;
     box-shadow:20px 20px 50px black;
 }
 
-#pills-team, #pills-benefits, #pills-needs, #pills-Studio {
+#pills-home, #pills-team, #pills-benefits, #pills-needs, #pills-Studio {
     background-color: #330000;
     color: white;
     text-align: left;
