@@ -35,7 +35,7 @@ button {
 }
 
 #pills-team, #pills-benefits, #pills-needs, #pills-Studio {
-    background-color: red;
+    background-color: #330000;
     color: white;
     text-align: left;
     min-height: 2000px;
@@ -48,8 +48,7 @@ button {
 .card {
     margin: 0 auto;
     float: none;
-    /*width: 100%; */
-    width: 15rem;
+    width: 30rem;
 }
 
 .footer {
