@@ -38,7 +38,7 @@ button {
     background-color: #330000;
     color: white;
     text-align: left;
-    min-height: 2000px;
+    padding: 20px;
 }
 
 .card-body {
@@ -51,7 +51,25 @@ button {
     width: 30rem;
 }
 
-.footer {
-    text-align: center;
-    padding: 50px;
+.top-container {
+    padding: 30px;
+
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 102px;
+  }
+
+.header {
+    padding: 10px 16px;
+}
+
+.content {
+    padding: 16px;
 }
