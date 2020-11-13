@@ -1,10 +1,9 @@
 .jumbotron {
-<<<<<<< HEAD
   text-align: center;
   color: #f12029;
   border: 6px solid currentColor;
   border-radius: 0px 15px 0px 15px;
-  background: url(assets/main-bg-tsn4_.jpg);
+  background: white;
   box-shadow:20px 20px 50px black;
   margin: 0em;
   min-height: 180px;
@@ -16,18 +15,10 @@
 #navigation {
   text-align: center;
   overflow: hidden;
-=======
-    text-align: center;
-    color: #f12029;
-    border: 6px solid currentColor;
-    border-radius: 25px;
-    background-color: #f1f1f1;
-    box-shadow:20px 20px 50px black;
->>>>>>> e6f93d17b4b7e53a0c3f1b42749313275a268fdd
 }
 
 body {
-  background: url(assets/river.jpg) no-repeat center center fixed;
+  background: url(https://datsan.openbroadcaster.pro/download.php?media_id=3249) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -60,7 +51,6 @@ h5 {
   width: 500px;
 }
 
-<<<<<<< HEAD
 #pills-benefits, #pills-needs {
   padding-bottom: 150px;
 }
@@ -122,11 +112,6 @@ h5 {
   font-weight: 400;
 }
 
-img {
-  border-radius: 15px;
-  box-shadow:20px 20px 50px black;
-  background-color: rgba(189, 70, 70, 0.671);
-}
 
 #copyright {
   font-size: 6px;
@@ -210,138 +195,3 @@ img {
     width: 100%;
   }
 }
-
-=======
-button {
-    background-color: red;
-    color: #f1f1f1;
-    border: 10px double white;
-    border-radius: 25px;
-    width: 175px;
-    font-size: x-large;
-    padding: 25px;
-    margin: 10px;
-    box-shadow:20px 20px 50px black;
-}
-
-h4 {
-    color: black;
-}
-
-#pills-home, #pills-team, #pills-benefits, #pills-needs, #pills-Studio {
-    background-color: #330000;
-    color: white;
-    text-align: left;
-    padding: 20px;
-}
-
-.card-body {
-    color: black;
-}
-
-.card {
-    margin: 0 auto;
-    float: none;
-    width: 30rem;
-}
-
-.top-container {
-    padding: 30px;
-}
-
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-
-.sticky + .content {
-    padding-top: 102px;
-  }
-
-.header {
-    padding: 10px 16px;
-    z-index: 10;
-}
-
-.content {
-    padding: 16px;
-}
-
-.footer {
-
-    display: block;
-
-    position: fixed;
-
-    left: 0;
-
-    bottom: 0;
-
-    width: 100%;
-
-    color: white;
-
-    text-align: center;
-<<<<<<< HEAD
-    padding: 50px;
-}
->>>>>>> e6f93d17b4b7e53a0c3f1b42749313275a268fdd
-=======
-
-    font-family: Arial, Helvetica, sans-serif;
-
-    font-weight: 600;
-
-    font-size: 20px;
-
-    height: 65px;
-
-    background-color: #330000;
-
-    -webkit-backdrop-filter: blur(5px) brightness(75%);
-
-    backdrop-filter: blur(5px) brightness(75%);
-
-    box-shadow: 0 -5px 5px -5px #333;
-
-    z-index: 10;
-
-  }
-
-  
-
-  p {
-
-    margin-top: 10px;
-
-    }
-
-  
-
-  .fa {
-
-      padding: 5px;
-
-      font-size: 30px;
-
-      width: 50px;
-
-      text-align: center;
-
-      text-decoration: none;
-
-      margin: 5px 2px;
-
-      border-radius: 32px;
-
-    }
-
-    
-
-    .fa:hover {
-
-        opacity: 0.5;
-
-    }
->>>>>>> 20a82461fe69965fe821e3ffcd2d571b6d60f8d5
